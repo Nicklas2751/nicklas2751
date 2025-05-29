@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicklas Wiegandt</h1>
-<h3 align="center">A passionate developer from Germany. One of the MediathekView maintainers & developers</h3>
+<h3 align="center">A passionate software architect from Germany. One of the MediathekView maintainers & developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicklas2751&label=Profile%20views&color=0e75b6&style=flat" alt="nicklas2751" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nicklas2751" target="blank"><img src="https://img.shields.io/twitter/follow/nicklas2751?logo=twitter&style=for-the-badge" alt="nicklas2751" /></a> </p>
 
-- 🔭 I’m currently working on [MediathekView](https://github.com/mediathekview/MediathekView)
+- 🔭 I’m currently working on [openapi-generator](https://github.com/openAPITools/openapi-generator/)
 
-- 📝 I regularly write articles on [https://nicklas.wiegandt.eu](https://nicklas.wiegandt.eu)
+- 📝 I ~regularly~ sometimes write articles on [https://nicklas.wiegandt.eu](https://nicklas.wiegandt.eu)
 
-- 💬 Ask me about **java, docker, springboot, kubernetes, software architecture**
+- 💬 Ask me about **software architecture, software architecture documentation, doc as code, java, docker, spring boot, kubernetes, terraform, AWS, Azure** and many more :)
 
 - 📫 How to reach me **nicklas@wiegandt.eu**
 
